@@ -103,3 +103,20 @@ BOARD_HAS_LARGE_FILESYSTEM := true
 # Crypto
 BOARD_USES_QCOM_FBE_DECRYPTION := true
 BOARD_USES_METADATA_PARTITION := true
+
+#SHRP_Variables
+SHRP_PATH := device/xiaomi/$(SHRP_DEVICE_CODE)
+SHRP_DEVICE_CODE := vayu
+SHRP_MAINTAINER := DqrKnzx
+SHRP_EDL_MODE := 1
+SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_INTERNAL := /sdcard
+SHRP_EXTERNAL := /sdcard1
+SHRP_OTG := /usb_otg
+SHRP_REC_TYPE := Treble
+SHRP_FLASH := 1
+SHRP_FLASH_MAX_BRIGHTNESS := 200
+SHRP_DEVICE_TYPE := A_Only
+SHRP_DARK := true
+SHRP_EXPRESS := true
+#
