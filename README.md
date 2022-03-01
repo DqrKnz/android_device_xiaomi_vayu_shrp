@@ -13,7 +13,7 @@ The Poco X3 Pro (codenamed _"vayu"_) is a high-end smartphone from POCO
 | CPU          | Octa-core (1x2.96 GHz Kryo 485 Gold & 3x2.42 GHz Kryo 485 Gold & 4x1.78 GHz Kryo 485 Silver)
 | GPU          | Adreno 640                                  
 | Memory       | 6GB / 8GB  (LPDDR 4X)                       
-| Shipped Android version | 11                               
+| Shipped Android version | 11 (MIUI 12)                              
 | Storage      | 128GB / 256GB  (UFS 3.1)                    
 | Battery      | Li-Po 5160 mAh, non-removable               
 | Dimensions   | 165.3 x 76.8 x 9.4 mm                       
@@ -28,6 +28,7 @@ The Poco X3 Pro (codenamed _"vayu"_) is a high-end smartphone from POCO
 **Works**
 
 - Booting.
+- ADB
 - MTP
 - OTG
 - Vibration
